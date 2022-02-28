@@ -1,0 +1,25 @@
+segment_sources:
+  PBA055098:
+    type: origin_type
+    relation: translation
+    language: en
+  PD6721660:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  66bd5c53eb6e4f6893357a8df135b5fa:
+    PBA055098: c308f3f61dfc4069a2368df7f2450f62
+    PD6721660: a19f1c5514544f8e8f57a530c38ffc5d
+  12311d1b016b4f2d8fe50042c201e8e8:
+    PBA055098: 58543065b9094a72bf1118cddc6ca0c5
+    PD6721660: 025f8919a5014b95881d68b205801082
+  6359640a30dc48c59d8a8bd1277249b5:
+    PBA055098: f76fb104abee4a059d092add0e36cdaa
+    PD6721660: 24db7ebb7a424e02a09ae6d9438a17d2
+  083a56aa015f4e4da099530235178cc1:
+    PBA055098: 370ae86b57ee4184bbed4e47bccf3510
+    PD6721660: e8cba3f17c234a29b31e8005963db428
+  59c05b27b0d6402088e1d20f29455e4e:
+    PBA055098: 83796d7202ba46be98302c45193c2e8e
+    PD6721660: a420e7f316c940b68c0320105ab407ba
